@@ -1,6 +1,6 @@
 # Hi there, I'm Hamad Alrashid👋
 
-Passionate, self-motivated, and detail-oriented undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science at the University of Maryland with academic emphasis in ML/AI, Data Science, and Cybersecurity (GPA 3.74). Below are two of my favorite projects that I've worked on. 
+Passionate, self-motivated, and detail-oriented undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science at the University of Maryland ([Top 10 Public Schools in CS](https://cmns.umd.edu/news-events/news/computer-science-undergraduate-program-ranks-top-10)) with academic emphasis in ML/AI, Data Science, and Cybersecurity (GPA 3.74). Below are two of my favorite projects that I've worked on. 
 
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/)
 - :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
