@@ -64,7 +64,7 @@ A web-application for educating users about encryption and hash algorithms in th
 
 ### Some pages of the project
 ![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/1.PNG)
-![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/2.PNG)
+![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/2.png)
 ![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/3.PNG)
 ![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/4.PNG)
 
