@@ -8,7 +8,7 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 
 
 
-## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](Vectara.com), a top-50 GenAI startup, at the Silicon Valley. 
+## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. 
 
 ### Description
 During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval Question-Answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. 
