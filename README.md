@@ -7,7 +7,7 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 
 ## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](Vectara.com), a top-50 GenAI startup, at the Silicon Valley. 
 
-### Describtion
+### Description
 During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval Question-Answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. LinkedIn post: https://www.linkedin.com/in/hamad-alrashid-3a94bb142/
 ### Goals of the project
 - Goal 1: Understanding the importance of tokenization in lexical-matching retrieval systems  
@@ -43,7 +43,7 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 *Won the second best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
 
 
-### Describtion
+### Description
 A web-application for educating users about encryption and hash algorithms in the Arabic language. I noticed a huge gap in the Arabic resources in the field of cryptography. Therefore, I developed this project to enrich the Arabic resources and showcase how encryption & hashing algorithms work. I submitted my project to the 2018 National Computer Olympiad In Riyadh, where I won the second best project.
 
 ### Features
