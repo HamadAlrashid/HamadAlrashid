@@ -78,7 +78,7 @@ A web-application for educating users about encryption and hash algorithms in th
 Feel free to reach out if you have any questions
 
 - 📫 Email: hamad1 AT umd.edu
-- :briefcase: [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
 - :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
 
 
