@@ -33,7 +33,10 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - [SQLITE Full-Text search](https://www.sqlite.org/fts5.html): A powerfull extenstion that provides a full-text search engines to efficiently search a corpus
 
 ### Some of the results:
+- Outperforming the mBERT tokenizer and closing the gap with langauge-specific tokenizers (Language analyzers)
 ![One of the benchmarks against strong baselines](/Sentencepiece/Recall.PNG?raw=true "Recall @ 100")
+![One of the benchmarks against strong baselines2](/Sentencepiece/All.PNG?raw=true "ndcg @ 10")
+- Hyperparameter tuning (500+ tokenizer experiments for 11+ Langauges). English:
 ![Hyperparameter tuning](/Sentencepiece/English.PNG?raw=true "Hyperparameter tuning")
 
 
