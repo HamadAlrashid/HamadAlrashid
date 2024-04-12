@@ -5,10 +5,16 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/)
 - :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
 
+
+
+
 ## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](Vectara.com), a top-50 GenAI startup, at the Silicon Valley. 
 
 ### Description
-During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval Question-Answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. LinkedIn post: https://www.linkedin.com/in/hamad-alrashid-3a94bb142/
+During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval Question-Answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. 
+*LinkedIn post: [https://www.linkedin.com/in/hamad-alrashid-3a94bb142/](https://www.linkedin.com/posts/hamad-alrashid-3a94bb142_%D8%A7%D9%84%D8%AD%D9%85%D8%AF%D9%84%D9%84%D9%87-im-excited-to-announce-that-ive-activity-7101650295583121408-g--0)
+
+
 ### Goals of the project
 - Goal 1: Understanding the importance of tokenization in lexical-matching retrieval systems  
 - Goal 2: Extensive analysis of the [Sentencepiece](https://github.com/google/sentencepiece) ML tokenizer (Google, 2018) in BM25 
