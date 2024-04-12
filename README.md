@@ -2,6 +2,9 @@
 
 I'm a passionate undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science student at the University of Maryland with academic emphasis in ML/AI, Data Science, and Cybersecurity (GPA 3.74). Below are two of my favorite projects that I've worked on. 
 
+- :briefcase: [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
+- :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
+
 ## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](Vectara.com), a top-50 GenAI startup, at the Silicon Valley. 
 
 ### Describtion
@@ -36,34 +39,47 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - 🔗 [Benchmark BM25 on SQLITE (fts5)](Sentencepiece/benchmark_fts5.py)
 
 
-## 🌟 Project 2: [Another Project Name]
+## 🌟 Project 2: Cryptography Web Application 
+*Won the second best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
 
-### What is [Another Project Name]?
+
+### Describtion
+A web-application for educating users about encryption and hash algorithms in the Arabic language. I noticed a huge gap in the Arabic resources in the field of cryptography. Therefore, I developed this project to enrich the Arabic resources and showcase how encryption & hashing algorithms work. I submitted my project to the 2018 National Computer Olympiad In Riyadh, where I won the second best project.
 
 ### Features
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- And more...
+- Feature 1: Supports DarkMode  
+- Feature 2: Ceasar Cipher
+- Feature 3: AES
+- Feature 4: hex to string & string to hex
+- Feature 5: base64 encoder/decoder
+- Feature 6: MD5
+- Feature 7: SHA1
+- Feature 8: SHA256
 
 ### Technologies Used
-- Tech 1
-- Tech 2
-- Tech 3
+- PHP
+- Xampp
+- Openssl library
+- Bootstrap for UI
+
+### Some pages of the project
+![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/1.PNG)
+![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/2.PNG)
+![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/3.PNG)
+![Project 2 Screenshot](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-/blob/main/4.PNG)
+
 
 ### Links
-- 🔗 [Live Demo](#)
-- 🔗 [Repository](#)
+- 🔗 [Full project](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-)
 
-![Project 2 Screenshot](link-to-screenshot)
 
 ## Let's Connect!
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project. You can connect with me through:
+Feel free to reach out if you have any questions
 
-- 📫 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
+- 📫 Email: hamad1 AT umd.edu
+- :briefcase: [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
+- :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
 
-Thank you for visiting my profile, and I hope you find my projects interesting!
+
 
