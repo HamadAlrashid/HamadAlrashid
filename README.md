@@ -2,7 +2,7 @@
 
 I'm a passionate undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science student at the University of Maryland with academic emphasis in ML/AI, Data Science, and Cybersecurity (GPA 3.74). Below are two of my favorite projects that I've worked on. 
 
-- :briefcase: [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/))
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/)
 - :page_with_curl: [My Resume](https://drive.google.com/file/d/1utHkJHN_iqBl1x0BWxuTgnlBfcerxWmL/view?usp=drive_link)
 
 ## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](Vectara.com), a top-50 GenAI startup, at the Silicon Valley. 
