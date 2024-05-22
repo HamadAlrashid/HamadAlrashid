@@ -21,7 +21,7 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - Goal 2: Extensive analysis of the [Sentencepiece](https://github.com/google/sentencepiece) ML tokenizer (Google, 2018) in BM25 
 - Goal 3: Hyper-parameter tuning experiments
 - Goal 4: Train a Multilingual Tokenizer that supports 41 languages
-- Goal 5: Expand on (Better Than Whitespace: Information Retrieval for Languages without Custom Tokenizers)[https://arxiv.org/abs/2210.05481], a paper by Jimmy Lin's research group at the University of Waterloo
+- Goal 5: Expand on [Better Than Whitespace: Information Retrieval for Languages without Custom Tokenizers](https://arxiv.org/abs/2210.05481) , a paper by Jimmy Lin's research group at the University of Waterloo
 - Goal 6: Improve the effectiveness of the keyword retrieval system
 - And more...
 
