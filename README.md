@@ -3,9 +3,13 @@
 Passionate, self-motivated, and detail-oriented undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science at the University of Maryland ([Ranks top 10 in CS](https://cmns.umd.edu/news-events/news/computer-science-undergraduate-program-ranks-top-10)) with academic emphasis in ML/AI, Data Science, and Cybersecurity. Below are two of my favorite projects that I've worked on. 
 
 
+### Table of Contents
 
+1. [Project 1: ML Tokenization in lexical-matching Retrieval Systems at Vectara.com](#1)
+2. [Project 2: Cryptography Web Application](#2)
+3. [Contact Information](#3)
 
-## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. 
+## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. <a name="1"></a>
 
 ### Description
 During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval Question-Answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. 
@@ -30,7 +34,7 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - [Wiki40b](https://www.tensorflow.org/datasets/catalog/wiki40b): Wikipedia text of over 84 million sentences of 41 langauges
 - [Google Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview): A black-box optimizer that is used for hyper-parameter tuning
 - Amazon EC2 Instance: Used a machine with over 700GB of RAM to train the tokenizer
-- [SQLITE Full-Text search](https://www.sqlite.org/fts5.html): A powerfull extenstion that provides a full-text search engines to efficiently search a corpus
+- [SQLITE Full-Text search](https://www.sqlite.org/fts5.html): A powerful extension that provides a full-text search engines to efficiently search a corpus
 
 ### Some of the results:
 - Outperforming the mBERT tokenizer and closing the gap with langauge-specific tokenizers (Language analyzers)
@@ -45,7 +49,7 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - 🔗 [Benchmark BM25 on SQLITE (fts5)](Sentencepiece/benchmark_fts5.py)
 
 
-## 🌟 Project 2: Cryptography Web Application 
+## 🌟 Project 2: Cryptography Web Application <a name="2"></a>
 *Won the second best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
 
 
@@ -79,7 +83,7 @@ A web-application for educating users about encryption and hash algorithms in th
 - 🔗 [Full project](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-)
 
 
-## Let's Connect!
+## Let's Connect! <a name="3"></a>
 
 Feel free to reach out if you have any questions
 
