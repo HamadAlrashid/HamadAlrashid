@@ -4,10 +4,23 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 
 
 ### Table of Contents
+1. [Work Experience](#0)
+2. [Project 1: ML Tokenization in lexical-matching Retrieval Systems at Vectara.com](#1)
+3. [Project 2: Cryptography Web Application](#2)
+4. [Contact Information](#3)
 
-1. [Project 1: ML Tokenization in lexical-matching Retrieval Systems at Vectara.com](#1)
-2. [Project 2: Cryptography Web Application](#2)
-3. [Contact Information](#3)
+## Work Experience <a name="0"></a>
+
+- **AI & Machine Learning Intern** (2024 - Palo Alto) 
+  - During my 2024 Summer internship at [Ario](https://www.heyario.com/), a Silicon Valley based AI startup with $16 million in seed funding, I
+    contributed to a dynamic high-paced, competitive environment by working on various SWE & AI projects, mainly vertically developing a robust data pipeline for integrating a new data source, and thus, enhancing the application's data richness and       functionality.
+
+- **Software Engineer Intern** (2023 - Palo Alto)
+  - At Vectara, a top-50 GenAI startup, in the Silicon Valley with a $55 million series-A funding, I worked on a 3-month cutting-edge project that improves the Information Retrieval system using Machine
+Learning. Performed extensive ML experiments & IR QA testing (Pyserini/Anserini, FTS5) & hyper-parameter tuning (Google Vizier) for BM25, outperforming strong baselines.
+
+- **Research Intern** at University of California, Irvine (UCI) (2022 - Irvine)
+  - Under the supervision of Dr.William Rangwei Mao, I conducted research on developing a wireless endoscope for medical purposes. Wrote C# and Python scripts for transmitting and encoding/decoding video data using JPEG compression algorithm.
 
 ## 🚀 Project 1: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. <a name="1"></a>
 
