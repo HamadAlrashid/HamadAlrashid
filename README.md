@@ -1,6 +1,6 @@
 # Hi there, I'm Hamad Alrashid👋
 
-Passionate, self-motivated, and detail-oriented undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science at the University of Maryland ([Ranks top 10 in CS](https://cmns.umd.edu/news-events/news/computer-science-undergraduate-program-ranks-top-10)) with academic emphasis in ML/AI, Data Science, and Cybersecurity. Below are two of my favorite projects that I've worked on. 
+Passionate, self-motivated, and detail-oriented undergraduate student who loves to explore new technologies and build innovative projects. I study Computer Science at the University of Maryland ([Ranks top 10 in CS](https://cmns.umd.edu/news-events/news/computer-science-undergraduate-program-ranks-top-10)) with academic emphasis in ML/AI, Data Science, and Cybersecurity. 
 
 
 ### Table of Contents
