@@ -14,7 +14,7 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 
 - **AI & Machine Learning Intern** (2024 - Palo Alto) 
   - During my 2024 Summer internship at [Ario](https://www.heyario.com/), a Silicon Valley-based AI startup with $16 million in seed funding, I
-    contributed to a dynamic high-paced, competitive environment by working on various SWE & AI projects, mainly vertically developing a robust data pipeline for integrating a new data source, and thus, enhancing the application's data richness and functionality.
+    contributed to a dynamic high-paced, competitive environment by working on various SWE & AI projects, mainly vertically developing a robust data pipeline for integrating a new data source, and thus, enhancing the application's data richness and functionality. [Blog Post](https://www.linkedin.com/posts/heyario_dataengineering-datapipeline-startups-ugcPost-7259961925860532224-0_mq)
 
 
 - **Software Engineer Intern** (2023 - Palo Alto)
@@ -23,7 +23,7 @@ Learning. Performed extensive ML experiments & IR QA testing (Pyserini/Anserini,
 
 
 - **Research Intern** at University of California, Irvine (UCI) (2022 - Irvine)
-  - Under the supervision of Dr.William Rangwei Mao, I conducted research on developing a wireless endoscope for medical purposes. Wrote C# and Python scripts for transmitting and encoding/decoding video data using JPEG compression algorithm.
+  - Under Dr.William Rangwei Mao's supervision, I researched developing a wireless endoscope for medical purposes. Wrote C# and Python scripts for transmitting and encoding/decoding video data using JPEG compression algorithm.
 
 ## 🚀 Project 1: Robust Data & AI Pipeline (Instagram API) at Ario <a name="1"></a>
 
@@ -103,8 +103,8 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - 🔗 [Benchmark BM25 on SQLITE (fts5)](Sentencepiece/benchmark_fts5.py)
 
 
-## 🌟 Project 2: Cryptography Web Application <a name="3"></a>
-*Won the second-best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
+## 🌟 Project 3: Cryptography Web Application <a name="3"></a>
+* Won the second-best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
 
 
 ### Description
@@ -143,7 +143,7 @@ Feel free to reach out if you have any questions
 
 - 📫 Email: hamad1 AT umd.edu
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
-- :page_with_curl: [My Resume](https://drive.google.com/file/d/16el7m3PX742xl6r_G5O0BnBKWGc1zS40/view?usp=sharing)
+- :page_with_curl: [My Resume](https://drive.google.com/file/d/1r4ylOcVY4gmte20ljFgLJwhzIgtac0kp/view?usp=sharing)
 
 
 
