@@ -143,7 +143,7 @@ Feel free to reach out if you have any questions
 
 - 📫 Email: hamad1 AT umd.edu
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/hamad-alrashid-3a94bb142/) 
-- :page_with_curl: [My Resume](https://drive.google.com/file/d/10tA1aLz2s1pmjf6t9-oGKjKHr1sf_KQT/view?usp=sharing)
+- :page_with_curl: [My Resume](https://drive.google.com/file/d/1r1E7hJ9iNU7zg5yYOqOijsfr7UF6tTy_/view?usp=sharing)
 
 
 
