@@ -5,10 +5,11 @@ Passionate, self-motivated, and detail-oriented undergraduate student who loves 
 
 ### Table of Contents
 1. [Work Experience](#0)
-2. [Project 1: Robust Data & AI Pipeline (Instagram API) at Ario](#1)
-3. [Project 2: ML Tokenization in lexical-matching Retrieval Systems at Vectara.com](#2)
-4. [Project 3: Computer Olympiad (Cryptography Web Application) ](#3)
-5. [Contact Information](#4)
+2. [Project 1: RAG (Retrieval-Augmented Generation) System](#1)
+3. [Project 2: Robust Data & AI Pipeline (Instagram API) at Ario](#2)
+4. [Project 3: ML Tokenization in lexical-matching Retrieval Systems at Vectara.com](#3)
+5. [Project 4: Computer Olympiad (Cryptography Web Application) ](#4)
+6. [Contact Information](#5)
 
 ## Work Experience <a name="0"></a>
 
@@ -25,7 +26,47 @@ Learning. Performed extensive ML experiments & IR QA testing (Pyserini/Anserini,
 - **Research Intern** at University of California, Irvine (UCI) (2022 - Irvine)
   - Under Dr.William Rangwei Mao's supervision, I researched developing a wireless endoscope for medical purposes. Wrote C# and Python scripts for transmitting and encoding/decoding video data using JPEG compression algorithm.
 
-## 🚀 Project 1: Robust Data & AI Pipeline (Instagram API) at Ario <a name="1"></a>
+## 🚀 Project 1: RAG (Retrieval-Augmented Generation) System <a name="1"></a>
+
+### Description
+A comprehensive RAG system that combines document preprocessing, hybrid retrieval (sparse + dense), and language model generation to provide accurate, context-aware answers to user queries. The system supports multi-source document processing and implements advanced retrieval techniques for optimal performance.
+
+![RAG System Architecture](https://github.com/HamadAlrashid/search_app/raw/master/architecture.png)
+
+### Goals of the project
+- Goal 1: Implement a fast RAG system with hybrid retrieval capabilities
+- Goal 2: Support multiple document sources (URLs, PDFs with OCR, custom documents)
+- Goal 3: Develop both sparse (BM25) and dense (FAISS) retrieval methods
+- Goal 4: Create a modular architecture with multiple LLM provider support
+- Goal 5: Implement advanced retrieval methods (RRF, interleaved merging, cross-encoder)
+- Goal 6: Design efficient indexing and storage solutions
+- Goal 7: Provide comprehensive logging and debugging capabilities
+
+### Technologies/Resources Used
+- **LangChain**: Framework for building LLM applications
+- **FAISS**: Facebook AI Similarity Search for dense vector retrieval (Nearest Neighbors Search)
+- **SQLite FTS5**: Full-text search engine for sparse retrieval (BM25)
+- **OpenAI API**: GPT models for text generation and embeddings
+- **Google Gemini**: Alternative LLM provider for text generation
+- **PyMuPDF**: PDF processing with OCR capabilities
+- **BeautifulSoup**: Web scraping for URL content extraction
+- **Pydantic**: Data validation and settings management
+
+### Key Features
+- **Multi-source Document Processing**: Support for URLs, PDFs (with OCR), and custom documents
+- **Multi-language Support**: Support for multiple languages (English, Arabic)
+- **Sparse Retrieval**: BM25 with fast B-tree inverted index (SQLite FTS5)
+- **Dense Retrieval**: FAISS with various index types (Flat, HNSW, IVF, PQ, LSH)
+- **Hybrid Retrieval**: Combines sparse (BM25) and dense (FAISS) search for optimal results
+- **Multiple LLM Providers**: Support for OpenAI (GPT) and Google (Gemini) models
+- **Advanced Retrieval Methods**: RRF, interleaved merging, cross-encoder, multi-query
+- **Persistent Storage**: Save and load indexes for reuse
+- **Comprehensive Logging**: Detailed logging for debugging and monitoring
+
+### Links
+- 🔗 [Project Repository](https://github.com/HamadAlrashid/HamadAlrashid/tree/main/search_app)
+
+## 🚀 Project 2: Robust Data & AI Pipeline (Instagram API) at Ario <a name="2"></a>
 
 ### Description
 During my 2024 AI & ML internship at Ario, I fully implemented a robust data pipeline for integrating Instagram as a new data source in the company's main application. The pipeline handles the complete flow from user authentication with Instagram to data processing and storage, utilizing the official Instagram Basic Display API to authorize Instagram and fetch user posts.
@@ -63,7 +104,7 @@ During my 2024 AI & ML internship at Ario, I fully implemented a robust data pip
 - 🔗 [Project Repository](https://github.com/HamadAlrashid/instagram_basic_display_api/)
 
 
-## 🚀 Project 2: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. <a name="2"></a>
+## 🚀 Project 3: Using Machine Learning Tokenization in lexical-matching Retrieval Systems at [Vectara.com](https://vectara.com/), a top-50 GenAI startup, at the Silicon Valley. <a name="3"></a>
 
 ### Description
 During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-edge project that improved the Information Retrieval system using Machine Learning. I performed extensive ML experiments & Information Retrieval question-answering benchmarking & Hyper-Parameter tuning, outperforming strong baselines such as the mBERT tokenizer. 
@@ -103,7 +144,7 @@ During my 2023 summer internship at Vectara.com, I worked on a 3-month cutting-e
 - 🔗 [Benchmark BM25 on SQLITE (fts5)](Sentencepiece/benchmark_fts5.py)
 
 
-## 🌟 Project 3: Cryptography Web Application <a name="3"></a>
+## 🌟 Project 4: Cryptography Web Application <a name="4"></a>
 * Won the second-best project in the National Computer Olympiad in 2018 in Saudi Arabia in Riyadh
 
 
@@ -137,7 +178,7 @@ A web application for educating users about encryption and hash algorithms in th
 - 🔗 [Full project](https://github.com/HamadAlrashid/Encryption-web-application-Arabic-)
 
 
-## Let's Connect! <a name="4"></a>
+## Let's Connect! <a name="5"></a>
 
 Feel free to reach out if you have any questions
 
