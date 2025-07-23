@@ -64,7 +64,7 @@ A comprehensive RAG system that combines document preprocessing, hybrid retrieva
 - **Comprehensive Logging**: Detailed logging for debugging and monitoring
 
 ### Links
-- 🔗 [Project Repository](https://github.com/HamadAlrashid/HamadAlrashid/tree/main/search_app)
+- 🔗 [Project Repository](https://github.com/HamadAlrashid/search_app)
 
 ## 🚀 Project 2: Robust Data & AI Pipeline (Instagram API) at Ario <a name="2"></a>
 
